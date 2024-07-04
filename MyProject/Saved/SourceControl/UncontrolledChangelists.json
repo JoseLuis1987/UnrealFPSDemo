@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/37/R8LDE8KGNWZW5NFRH4QM0D.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/KR/Z6027BUWAMFGWS5TYLWVQQ.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XJ/HL558UUAGCS9HVVOI0S7PX.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/ZU/PDQ0AB8RLNMVID876FD49G.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/WB/V4ALNTJYOVWM8BU452CKV5.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/VR/W8QQS61UIXFA2PQITXMKJ2.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/KA/3EK0BQLPWINL7ZLQJ5KXTB.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7F/9F4TSNJDU1VJSOCFD0ENIH.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z9/7BJ9G16UFQ21V0WCRIJYYX.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/4E/XBW9E7MPP0JKHTC4L7MSES.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/M5/ZH6BCJ3JL71ZOEOUCQW2PI.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/LM/GIHXSJCRZO44ZN1J3G4E65.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/MJ/ZTGAZKPQ654R1WKF09AKQR.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/AN/VSCNYNIECBMM5UHDS6EVGU.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/XJ/DJP3J93DU4IM8E1JNR28KZ.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/GO/9NN5YWAP01EY1ORSKUQ4KY.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/3E/13IMWF6QNVACCND00024WT.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/XS/WQGUEPH5WFH491XT2E5K1U.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/9X/AXHI45YLTQQZ1KQXB4JVBL.uasset",
+				"C:/Users/luis_/OneDrive/Documentos/Unreal Projects/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Q5/K9U4TJS2SRPIGHA7O06E2S.uasset"
+			]
+		}
+	]
+}
